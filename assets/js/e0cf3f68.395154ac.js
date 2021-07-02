@@ -1,0 +1,1 @@
+(self.webpackChunklucasllin_github_io=self.webpackChunklucasllin_github_io||[]).push([[844],{2661:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"use-ref","name":"useref","count":1,"permalink":"/blog/tags/use-ref"}')}}]);

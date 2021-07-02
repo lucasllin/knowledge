@@ -1,0 +1,1 @@
+(self.webpackChunklucasllin_github_io=self.webpackChunklucasllin_github_io||[]).push([[778],{2567:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"use-state","name":"usestate","count":1,"permalink":"/blog/tags/use-state"}')}}]);
