@@ -12,5 +12,5 @@ tags: [useState, useRef]
 
 - 两者都会保存之前的数据，但是只有`useState`调用更新 state 函数时，会 re-render
 - `useRef`返回一个包含`current`属性的对象，`useState`返回一个数据，第一个是`state`，第二个是`state updater`
-- `useRef`的`current`属性是可变的，而`useState`的状态不是，所以`useState`的值不能直接赋值，应该用 state updater 进行赋值
+- `useRef`的`current`属性是可变的，而`useState`的状态不是，所以`useState`的值不能直接赋值，应该用 更新 state 函数进行赋值
 - `useRef`可以用于获取 DOM 元素
